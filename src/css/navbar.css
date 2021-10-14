@@ -7,7 +7,7 @@
 /* css  code for navbar  */
 .navbarfahri {
     position: fixed;
-    top: 2%;
+    top: 1%;
     width: 100%;
     /* border: 1px solid black; */
     background: white;
@@ -26,7 +26,6 @@
     justify-content: right;
     align-items: center;
     margin-top: 7px;
- 
 }
 .menuSection ul {
     list-style-type: none;
@@ -49,14 +48,13 @@
 }
 
 @media only screen and (max-width: 1200px) {
-
 }
 
 @media only screen and (max-width: 992px) {
 }
 
 @media only screen and (max-width: 768px) {
-    .branding{
+    .branding {
         font-size: 20px;
     }
 }
